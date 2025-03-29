@@ -16,6 +16,10 @@ If you are developing a production application, we recommend using TypeScript an
 
 This project is a React-based web application that integrates with the Reqres API to manage users. The application includes authentication, displaying a list of users with pagination, and performing CRUD operations such as edit and delete.
 
+# Login into the application
+  email: 'eve.holt@reqres.in',  // Change this email
+  password: 'cityslicka'  // Change this password
+
 ## Features
 
 - **Authentication**: Allows users to log in using predefined credentials.
